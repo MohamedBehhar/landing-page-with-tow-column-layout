@@ -6,8 +6,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -21,17 +21,20 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-- Desktop
-![Desktop](./screen-shots/desktop.png)
-
-- Mobile
-![Mobile](./screen-shots/mobile.png)
-
-
 ### Links
 
 - Live Site URL: [Click-me](https://mohamedbehhar.github.io/landing-page-with-tow-column-layout/#)
+
+### Screenshot
+- Desktop
+
+![Desktop](./screen-shots/desktop.png)
+
+- Mobile
+
+![Mobile](./screen-shots/mobile.png)
+
+
 
 
 ### Built with
